@@ -48,15 +48,12 @@ npm start
 
 ## 🔗 Endpoints
 
-| Method | Endpoint        | Description             |
-|--------|-----------------|-------------------------|
-| GET    | `/products`     | แสดงสินค้าทั้งหมด      |
-|        | ![GET products](images/Screenshot 2025-09-29 105045.png) |  
-| GET    | `/products/:id` | แสดงสินค้าตาม `id`     |
-|        | ![GET product id](images/Screenshot 2025-09-29 105036.png) |  
-| POST   | `/products`     | เพิ่มสินค้าใหม่         |
-|        | ![POST product](images/Screenshot 2025-09-29 105028.png) |  
-| PUT    | `/products/:id` | แก้ไขสินค้า             |
-|        | ![PUT product](images/Screenshot 2025-09-29 105021.png) |  
-| DELETE | `/products/:id` | ลบสินค้า                |
-|        | ![DELETE product](images/Screenshot 2025-09-29 105013.png) |  
+## 🔗 Endpoints
+
+| Method | Endpoint        | Description |
+|-------:|-----------------|-------------|
+| GET    | `/products`     | แสดงสินค้าทั้งหมด <br><img src="Screenshot 2025-09-29 105045.png" width="520"> |
+| GET    | `/products/:id` | แสดงสินค้าตาม `id` <br><img src="Screenshot 2025-09-29 105036.png" width="520"> |
+| POST   | `/products`     | เพิ่มสินค้าใหม่ <br><img src="Screenshot 2025-09-29 105028.png" width="520"> |
+| PUT    | `/products/:id` | แก้ไขสินค้า <br><img src="Screenshot 2025-09-29 105021.png" width="520"> |
+| DELETE | `/products/:id` | ลบสินค้า <br><img src="Screenshot 2025-09-29 105013.png" width="520"> |
