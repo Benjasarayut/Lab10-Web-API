@@ -61,4 +61,4 @@ npm start
 ![PUT /products/:id](assets/Screenshot2025-09-29105021.png)
 
 ### Postman: DELETE product
-![DELETE /products/:id](assets/Screenshot2025-09-29105013.png)
+![DELETE /products/:id](assets/p.png)
