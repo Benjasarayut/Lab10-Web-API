@@ -44,20 +44,19 @@ PORT=3000
 
 npm start
 
-## 🔗 Endpoints
-
-## 🔗 Endpoints
-
-## 🔗 Endpoints
-
 ## 📌 Endpoints
 
-| Method | Endpoint       | Description |
-|--------|----------------|-------------|
-| GET    | `/products`    | แสดงสินค้าทั้งหมด <br> ![GET products](images/Screenshot 2025-09-29 105045.png) |
-| GET    | `/products/:id`| แสดงสินค้าตาม `id` <br> ![GET product by id](images/Screenshot 2025-09-29 105036.png) |
-| POST   | `/products`    | เพิ่มสินค้าใหม่ <br> ![POST product](images/Screenshot 2025-09-29 105028.png) |
-| PUT    | `/products/:id`| แก้ไขสินค้า <br> ![PUT product](images/Screenshot 2025-09-29 105021.png) |
-| DELETE | `/products/:id`| ลบสินค้า <br> ![DELETE product](images/Screenshot 2025-09-29 105013.png) |
+### phpMyAdmin
+![phpMyAdmin](assets/Screenshot 2025-09-29 112841.png)
 
+### Postman: GET all products
+![GET /products](assets/Screenshot 2025-09-29 105045.png)
 
+### Postman: POST new product
+![POST /products](assets/Screenshot 2025-09-29 105036.png)
+
+### Postman: PUT update product
+![PUT /products/:id](assets/Screenshot 2025-09-29 105021.png)
+
+### Postman: DELETE product
+![DELETE /products/:id](assets/Screenshot 2025-09-29 105013.png)
