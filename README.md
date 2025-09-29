@@ -50,10 +50,11 @@ npm start
 
 ## 🔗 Endpoints
 
-| Method | Endpoint        | Description |
-|-------:|-----------------|-------------|
-| GET    | `/products`     | แสดงสินค้าทั้งหมด <br><img src="Screenshot 2025-09-29 105045.png" width="520"> |
-| GET    | `/products/:id` | แสดงสินค้าตาม `id` <br><img src="Screenshot 2025-09-29 105036.png" width="520"> |
-| POST   | `/products`     | เพิ่มสินค้าใหม่ <br><img src="Screenshot 2025-09-29 105028.png" width="520"> |
-| PUT    | `/products/:id` | แก้ไขสินค้า <br><img src="Screenshot 2025-09-29 105021.png" width="520"> |
-| DELETE | `/products/:id` | ลบสินค้า <br><img src="Screenshot 2025-09-29 105013.png" width="520"> |
+| Method | Endpoint       | Description |
+|--------|----------------|-------------|
+| GET    | `/products`    | แสดงสินค้าทั้งหมด <br> ![GET products](images/get_products.png) |
+| GET    | `/products/:id`| แสดงสินค้าตาม `id` <br> ![GET product by id](images/get_product_id.png) |
+| POST   | `/products`    | เพิ่มสินค้าใหม่ <br> ![POST product](images/post_product.png) |
+| PUT    | `/products/:id`| แก้ไขสินค้า <br> ![PUT product](images/put_product.png) |
+| DELETE | `/products/:id`| ลบสินค้า <br> ![DELETE product](images/delete_product.png) |
+
