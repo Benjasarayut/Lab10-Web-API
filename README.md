@@ -49,16 +49,16 @@ npm start
 ## 📌 Endpoints
 
 ### phpMyAdmin
-![phpMyAdmin](assets/Screenshot 2025-09-29 112841.png)
+![phpMyAdmin](assets/Screenshot2025-09-29112841.png)
 
 ### Postman: GET all products
-![GET /products](assets/Screenshot 2025-09-29 105045.png)
+![GET /products](assets/Screenshot2025-09-29105045.png)
 
 ### Postman: POST new product
-![POST /products](assets/Screenshot 2025-09-29 105036.png)
+![POST /products](assets/Screenshot2025-09-29105036.png)
 
 ### Postman: PUT update product
-![PUT /products/:id](assets/Screenshot 2025-09-29 105021.png)
+![PUT /products/:id](assets/Screenshot2025-09-29105021.png)
 
 ### Postman: DELETE product
-![DELETE /products/:id](assets/Screenshot 2025-09-29 105013.png)
+![DELETE /products/:id](assets/Screenshot2025-09-29105013.png)
